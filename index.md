@@ -2,6 +2,36 @@
 layout: default
 ---
 
+# About the project
+
+The WAVETRAX project aims to enhance climate monitoring by advancing our understanding of active microwave remote sensing and its response to rapid sub-daily land-atmosphere interactions. Seasonal changes in snow, soil moisture, and vegetation play a vital role in water resource availability, ecosystem health, and climate regulation. Through tower-based RADAR observations and satellite data analysis, we seek to unravel complex interactions between microwaves and the Earth's surface, providing key insights into Essential Climate Variables (ECVs) such as soil moisture, snow water equivalent (SWE), and vegetation properties.
+ 
+> With WAVETRAX, we aspire to bridge gaps in current climate data interpretation, supporting better resource management and improved climate adaptation strategies.
+
+# Radar design in WAVETRAX
+
+We develop innovative RADAR sensors using Vector Network Analyzers (VNA) and Software-Defined Radio (SDR). The developed radars are based on the Stepped Frequency Continuous Wave principle.
+
+
+# Hardware
+
+# Software
+
+## Radar Firmware
+
+### L- and C-band
+[LibreVNA-based radars](https://github.com/wavetrax-by-dramco/Radar-LibreVNA-Firmware).
+
+### KU-band
+[P5024A-based radars](https://github.com/wavetrax-by-dramco/Radar-LibreVNA-Firmware)
+
+
+
+
+
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
